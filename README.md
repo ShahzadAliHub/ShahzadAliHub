@@ -24,7 +24,7 @@ Languages and Tools:
 - GitHub
 
 ## Portfolio
--[![Portfolio](https://res.cloudinary.com/daksbjvzm/image/upload/v1724350755/456334974_122175248312089400_1783145865965475186_n_c5jfqo.jpg)](https://shahzadalihub.netlify.app)
+-(https://shahzadalihub.netlify.app)
 ## How to Reach Me
 - Email: info.digiempact@gmail.com
 - LinkedIn: [ShahzadAliHub](https://www.linkedin.com/in/shahzadalihub/)
