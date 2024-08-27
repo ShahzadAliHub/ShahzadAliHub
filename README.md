@@ -6,22 +6,19 @@ Welcome to my GitHub profile! Here’s a bit about me:
 - Specializations: MERN Stack Development, SEO, Digital Marketing
 - Passionate about: Creating impactful web solutions and enhancing online visibility
 
-## Skills and Tools
-
-### Skills
-![HTML](https://example.com/path/to/html-image.png) <!-- Replace with the correct path or URL -->
-![CSS](https://example.com/path/to/css-image.png) <!-- Replace with the correct path or URL -->
-![JavaScript](https://example.com/path/to/javascript-image.png) <!-- Replace with the correct path or URL -->
-
-### Tools
-![Bootstrap](https://example.com/path/to/bootstrap-image.png) <!-- Replace with the correct path or URL -->
-![Tailwind CSS](https://example.com/path/to/tailwind-image.png) <!-- Replace with the correct path or URL -->
-![React](https://example.com/path/to/react-image.png) <!-- Replace with the correct path or URL -->
-![Node.js](https://example.com/path/to/nodejs-image.png) <!-- Replace with the correct path or URL -->
-![Git](https://example.com/path/to/git-image.png) <!-- Replace with the correct path or URL -->
-![VS Code](https://example.com/path/to/vscode-image.png) <!-- Replace with the correct path or URL -->
-![Netlify](https://example.com/path/to/netlify-image.png) <!-- Replace with the correct path or URL -->
-![GitHub](https://example.com/path/to/github-image.png) <!-- Replace with the correct path or URL -->
+## 🌟 Skills & Tools
+[![HTML](link-to-html-icon)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](link-to-css-icon)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](link-to-js-icon)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](link-to-bootstrap-icon)](https://getbootstrap.com/)
+[![Tailwind CSS](link-to-tailwind-icon)](https://tailwindcss.com/)
+[![React](link-to-react-icon)](https://reactjs.org/)
+[![Node.js](link-to-nodejs-icon)](https://nodejs.org/)
+[![Express](link-to-express-icon)](https://expressjs.com/)
+[![MongoDB](link-to-mongodb-icon)](https://www.mongodb.com/)
+[![Git](link-to-git-icon)](https://git-scm.com/)
+[![VS Code](link-to-vscode-icon)](https://code.visualstudio.com/)
+[![Netlify](link-to-netlify-icon)](https://www.netlify.com/)
 
 ## Portfolio
 - [My Portfolio](https://shahzadalihub.netlify.app)
