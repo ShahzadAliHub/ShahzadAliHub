@@ -24,7 +24,7 @@ Languages and Tools:
 - GitHub
 
 ## Portfolio
--(https://shahzadalihub.netlify.app)
+- Check out my work: [shahzadalihub.netlify.app](https://shahzadalihub.netlify.app)
 ## How to Reach Me
 - Email: info.digiempact@gmail.com
 - LinkedIn: [ShahzadAliHub](https://www.linkedin.com/in/shahzadalihub/)
