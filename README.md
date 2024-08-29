@@ -17,7 +17,7 @@ Languages and Tools:
 - Node.js
 - Express.js
 - MongoDB
-- MySQL
+- Materials UI
 - Git
 - VS Code
 - Netlify
